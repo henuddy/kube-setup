@@ -1,5 +1,7 @@
 # kube-setup
-kubernetes cluster setup shell
+kubernetes cluster setup shell 
+
+install docker and k8s with yum command.
 
 only one command :
   ```shell
